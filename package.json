@@ -1,0 +1,23 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrn0/parallax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retrn0/parallax/issues"
+  },
+  "homepage": "https://github.com/retrn0/parallax#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
